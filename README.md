@@ -2,7 +2,7 @@
 
 ##Repo contains:
 
-Name Lastname
+Name and Lastname
 
 Favorite Color
 
